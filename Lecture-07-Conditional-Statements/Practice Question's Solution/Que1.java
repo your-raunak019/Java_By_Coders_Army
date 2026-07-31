@@ -5,7 +5,7 @@ and checks whether the number is positive.*/
 import java.util.Scanner;
 public class Que1
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter an integer: ");

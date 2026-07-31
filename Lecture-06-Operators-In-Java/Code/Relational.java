@@ -1,6 +1,6 @@
 public class Relational
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         // Relational Operators-> == , != , < , > , <= , >=
 

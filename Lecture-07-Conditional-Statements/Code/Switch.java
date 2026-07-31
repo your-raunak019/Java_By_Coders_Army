@@ -1,6 +1,6 @@
 public class Switch
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         // Switch statements
         int i = 1;

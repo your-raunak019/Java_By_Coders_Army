@@ -12,7 +12,7 @@ Question 14: Print Pascal's Triangle
 
 public class LoopQue14
 {
-    public static void main(String [] args)
+    public static void main(StringDemo[] args)
     {
         int rows = 5;
         for(int i = 0; i < rows; i++)

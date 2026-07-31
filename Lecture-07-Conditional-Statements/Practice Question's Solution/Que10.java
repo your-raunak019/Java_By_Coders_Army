@@ -8,7 +8,7 @@ and performs the operation using switch.
 import java.util.Scanner;
 public class Que10
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");

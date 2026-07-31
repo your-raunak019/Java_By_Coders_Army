@@ -1,6 +1,6 @@
 public class Demo
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         // Comma Seperated Variation:-
         //  for(int i= 1, j= 1; i<=10 && j<=5; i++, j+=2);

@@ -13,7 +13,7 @@ Question 13: Print Floyd’s Triangle
 
 public class LoopQue13
 {
-    public static void main(String [] args)
+    public static void main(StringDemo[] args)
     {
         int num = 1;
         for(int i = 1; i<=5; i++)

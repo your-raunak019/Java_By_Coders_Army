@@ -1,6 +1,6 @@
 public class Lec04
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         float f = 0.7f;
 

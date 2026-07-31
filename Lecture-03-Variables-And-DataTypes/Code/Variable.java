@@ -1,6 +1,6 @@
 public class Variable
 {
-    public static void main (String [] args)
+    public static void main (StringDemo[] args)
     {
         //Integers-> byte, short , int , long
 

@@ -9,7 +9,7 @@ Grading criteria:
 import java.util.Scanner;
 public class Que6   
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter marks (0-100): ");

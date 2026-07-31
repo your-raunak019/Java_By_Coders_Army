@@ -1,6 +1,6 @@
 public class First
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         System.out.println(" Hello World ");
     }

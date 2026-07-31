@@ -1,6 +1,6 @@
 public class Assignment
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         // Assignment Operators
         int b;

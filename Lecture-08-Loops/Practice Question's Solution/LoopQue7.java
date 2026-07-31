@@ -10,7 +10,7 @@ Write a Java program to print:
 
 public class LoopQue7
 {
-    public static void main(String [] args)
+    public static void main(StringDemo[] args)
     {
         int count = 1;
         for(int i = 1; i<=4; i++)

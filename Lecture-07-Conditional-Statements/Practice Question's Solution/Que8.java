@@ -8,7 +8,7 @@ Write a Java program to check whether a number is:
 import java.util.Scanner;
 public class Que8
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter an integer: ");

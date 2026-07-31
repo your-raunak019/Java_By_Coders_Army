@@ -13,7 +13,7 @@ Mapping:
 import java.util.Scanner;
 public class Que9
 {
-    public static void main(String[] args)
+    public static void main(StringDemo[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number (1-7): ");

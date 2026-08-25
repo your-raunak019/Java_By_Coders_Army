@@ -1,8 +1,8 @@
 public class OopsIntro {
     public static void main(String[] args) {
 
-        Student s1 = new Student();
-        Student s2 = new Student();
+        Students s1 = new Students();
+        Students s2 = new Students();
 
         s1.name = "Rounak";
         s1.age = 22;
@@ -22,7 +22,7 @@ public class OopsIntro {
     }
 }
 
-class Student {
+class Students {
     String name;
     int age;
     int rollNum;

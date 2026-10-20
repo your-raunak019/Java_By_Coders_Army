@@ -152,8 +152,8 @@ I'm **Rounak Ansari**, a developer passionate about programming, problem-solving
 
 I enjoy exploring new technologies, strengthening my technical skills, and documenting what I learn along the way. Through my projects and learning resources, I aim to make technical concepts easier to understand and more accessible to others.
 
-- **GitHub:** [@your-raunak019](https://github.com/your-raunak019)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-rounak-ansari-648927353/)
+- **GitHub Id:** [@your-raunak019](https://github.com/your-raunak019)
+- **LinkedIn Id:** [Connect with me](https://www.linkedin.com/in/md-rounak-ansari-648927353/)
 
 Feel free to explore my work, share feedback, and connect with me!
 
